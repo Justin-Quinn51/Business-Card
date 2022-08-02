@@ -5,7 +5,7 @@ import React from "react"
 function Headshot() {
     return (
         <div>
-            <img src="/Rectangle90.png" alt="profile-picture"/>
+            <img className="h-[25rem] w-[25rem]" src="/Rectangle90.png" alt="profile-picture"/>
         </div>
     )
 }
