@@ -13,6 +13,15 @@ module.exports = {
         "linkedin": '#5093E2',
         "off-gray": '#DCDCDC',
         "footer": '#161619'
+      },
+      height: {
+        "25": "25rem",
+      },
+      width: {
+        "25": "25rem"
+      },
+      fontSize: {
+        "0.6": "0.6rem"
       }
     },
   },
